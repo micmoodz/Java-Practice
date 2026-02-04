@@ -29,5 +29,3 @@ I use this space to improve my understanding of **core Java concepts, problem-so
 *(More topics will be added as I progress)*
 
 ---
-
-## 📂 Repository Structure
